@@ -1,0 +1,1 @@
+const clave: number = 123;
